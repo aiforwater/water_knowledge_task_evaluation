@@ -1,2 +1,4 @@
 # water_knowledge_task_evaluation
-Evaluating and Advancing Large Language Models for Water Knowledge Tasks in Engineering and Research
+Official github repo for WaterER, an evaluation dataset for evaluating and advancing large language models for water knowledge Tasks in engineering and research [ESTL 2025]
+
+
